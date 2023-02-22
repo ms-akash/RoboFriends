@@ -1,0 +1,12 @@
+.header{
+    padding : 20px;
+}
+
+input{
+    padding : 20px;
+    outline: none;
+    font-size : 20px;
+    background-color : lightblue;
+    border: none;
+    border-radius: 10px;
+}

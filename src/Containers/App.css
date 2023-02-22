@@ -1,0 +1,11 @@
+body{
+  background-color: rgb(107, 223, 184);
+}
+.header{
+  display: grid;
+  justify-content: space-around;
+  place-content: center;
+  text-align: center;
+}
+
+
